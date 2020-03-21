@@ -1,0 +1,17 @@
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\bin\Debug\PracticeOP.exe.config
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\bin\Debug\PracticeOP.exe
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\bin\Debug\PracticeOP.pdb
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\bin\Debug\EntityFramework.dll
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\bin\Debug\EntityFramework.xml
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\obj\Debug\PracticeOP.csprojAssemblyReference.cache
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\obj\Debug\PracticeOP.Properties.Resources.resources
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\obj\Debug\PracticeOP.csproj.GenerateResource.cache
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\obj\Debug\PracticeOP.csproj.CoreCompileInputs.cache
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\obj\Debug\PracticeOP.csproj.CopyComplete
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\obj\Debug\PracticeOP.exe
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\obj\Debug\PracticeOP.pdb
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\obj\Debug\PracticeOP.LoginForm.resources
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\obj\Debug\PracticeOP.RegisterForm.resources
+C:\Users\Efim\source\repos\PracticeOP\PracticeOP\obj\Debug\PracticeOP.MainForm.resources
